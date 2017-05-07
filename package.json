@@ -4,7 +4,7 @@
   "description": "PrettyLog is a package to help make logging details to console more simple and look better",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
