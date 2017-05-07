@@ -1,6 +1,6 @@
 {
-  "name": "prettylog",
-  "version": "0.0.1",
+  "name": "prettyoutput",
+  "version": "0.0.3",
   "description": "PrettyLog is a package to help make logging details to console more simple and look better",
   "main": "index.js",
   "scripts": {
@@ -31,5 +31,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.3.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
