@@ -1,6 +1,6 @@
 {
-  "name": "prettyoutput",
-  "version": "0.0.3",
+  "name": "prettyconsole",
+  "version": "0.0.4",
   "description": "PrettyLog is a package to help make logging details to console more simple and look better",
   "main": "index.js",
   "scripts": {
