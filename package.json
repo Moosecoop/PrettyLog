@@ -1,0 +1,35 @@
+{
+  "name": "prettylog",
+  "version": "0.0.1",
+  "description": "PrettyLog is a package to help make logging details to console more simple and look better",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosecoop/PrettyLog.git"
+  },
+  "keywords": [
+    "pretty",
+    "log",
+    "console",
+    "timestamp",
+    "time",
+    "color"
+  ],
+  "author": "moosecoop <admin@moosecoop.com> (https://moosecoop.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moosecoop/PrettyLog/issues"
+  },
+  "homepage": "https://github.com/Moosecoop/PrettyLog#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
