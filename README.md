@@ -12,4 +12,4 @@ console.log(prettyLog('Connected', false, false));
 
 `prettyLog('Status set', false, false);` returns:
 
-![result](https://i.imgur.com/Bf3LgNS.png "Logo Title Text 1")
+![result](https://i.imgur.com/Bf3LgNS.png "prettyLog('Ready!', false, false);")
