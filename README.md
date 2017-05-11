@@ -8,8 +8,7 @@ var PrettyLog = require('prettylog');
 console.log(prettyLog('Connected', false, false));
 ```
 
-`prettyLog('Status set', false, false);` returns 
+`prettyLog('Status set', false, false);` returns ![result]: https://i.imgur.com/Bf3LgNS.png ""
 
 
 
-https://i.imgur.com/Bf3LgNS.png
