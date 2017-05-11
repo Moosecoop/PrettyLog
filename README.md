@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Moosecoop/PrettyLog.svg?branch=master)](https://travis-ci.org/Moosecoop/PrettyLog)
+[![Build Status](https://travis-ci.org/Moosecoop/PrettyLog.svg?branch=master)](https://travis-ci.org/Moosecoop/PrettyLog) [![node](https://rawgit.com/aleen42/badges/master/src/node.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/node.svg) [![github](https://rawgit.com/aleen42/badges/master/src/github.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg)
 # PrettyLog
 PrettyLog is a package to help make logging details to console more simple and look better.
 
